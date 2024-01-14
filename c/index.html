@@ -223,6 +223,7 @@
     peer.on('error', (error) => {
         console.log('Error: ' + error);
         chatLog.push("Error : "+ error)
+        reRender();
     });
 
 
