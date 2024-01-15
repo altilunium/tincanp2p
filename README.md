@@ -1,5 +1,8 @@
 # tincanp2p
-Tin Can P2P (beta) | One to one P2P chat app
+One to one P2P chat app, powered by [The PeerJS library](https://peerjs.com/)
+
+![image](https://github.com/altilunium/tincanp2p/assets/70379302/884c8c58-eb50-4ea6-89d7-c4b5fbf1d48e)
+
 
 ## How to use
 For callee
