@@ -1,4 +1,8 @@
+![image](https://github.com/altilunium/tincanp2p/assets/70379302/998dbc18-1112-4f43-b20b-f405565bedb6)
+
 # tincanp2p
+
+
 One to one P2P chat app, powered by [The PeerJS library](https://peerjs.com/)
 
 ![image](https://github.com/altilunium/tincanp2p/assets/70379302/884c8c58-eb50-4ea6-89d7-c4b5fbf1d48e)
