@@ -28,8 +28,8 @@ For caller
 
 
 #### How to use (no username method)
-* Player one : open https://altilunium.github.io/tincanp2p
-* Player two : open https://altilunium.github.io/tincanp2p/c
-* Player one will be notified when player two successfully logged in
-* Player one initiate the conversation
+* Callee : open https://altilunium.github.io/tincanp2p
+* Caller : open https://altilunium.github.io/tincanp2p/c
+* Callee will be notified when the caller successfully logged in
+* Callee initiates the conversation
 * Caveat : only one connection is allowed globally.
